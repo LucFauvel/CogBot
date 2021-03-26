@@ -5,7 +5,7 @@
       "EmojiId": "🍻"
     },
 
-     {
+    {
       "RoleId": "Game Deals",
       "EmojiId": "shutup_and_take_my_money"
     },
@@ -14,22 +14,42 @@
       "RoleId": "Gaming News",
       "EmojiId": "🎮"
     },
-
+    
     {
       "RoleId": "IRL News",
       "EmojiId": "📰"
     },
-
+    
     {
       "RoleId": "IRL Space News",
-      "EmojiId": "☄"
+      "EmojiId": "🚀"
+    },
+    
+    {
+      "RoleId": "Jump Point",
+      "EmojiId": "🕮"
+    },
+
+     {
+      "RoleId": "Org Recruitment",
+      "EmojiId": "📣"
     },
 
     {
-      "RoleId": "Org Recruitment",
-      "EmojiId": "mega"
+      "RoleId": "SC Dev Tracker",
+      "EmojiId": "benpopcorn"
     },
-
+    
+    {
+      "RoleId": "SC Community Content",
+      "EmojiId": "🎙️"
+    },
+    
+    {
+      "RoleId": "SC Official Videos",
+      "EmojiId": "Santa_Disco"
+    },
+    
     {
       "RoleId": "SC Comm Link",
       "EmojiId": "📨"

@@ -1,0 +1,193 @@
+{
+  "Front-Desk2": [
+    {
+      "RoleId": "Main Member",
+      "EmojiId": "Cognition_Corp"
+    },
+
+     {
+      "RoleId": "Affiliate Member",
+      "EmojiId": "👥"
+    },
+
+     {
+      "RoleId": "Guest",
+      "EmojiId": "🤝"
+    },
+
+    {
+      "RoleId": "Bounty Hunting",
+      "EmojiId": "🤠"
+    },
+
+    {
+      "RoleId": "Combat Medic",
+      "EmojiId": "🚑"
+    },
+
+    {
+      "RoleId": "Piracy",
+      "EmojiId": "Pirate"
+    },
+
+    {
+      "RoleId": "Vanduul Hunting",
+      "EmojiId": "👾"
+    },
+
+    {
+      "RoleId": "Arena Commander",
+      "EmojiId": "🏅"
+    },
+
+    {
+      "RoleId": "Racing",
+      "EmojiId": "🏁"
+    },
+
+    {
+      "RoleId": "Star Marine",
+      "EmojiId": "🔫"
+    },
+
+    {
+      "RoleId": "Farming",
+      "EmojiId": "🥔"
+    },
+
+    {
+      "RoleId": "Mercantile",
+      "EmojiId": "🏪"
+    },
+
+    {
+      "RoleId": "Mining & Prospecting",
+      "EmojiId": "⛏"
+    },
+
+    {
+      "RoleId": "Refueling",
+      "EmojiId": "⛽"
+    },
+
+    {
+      "RoleId": "Repair",
+      "EmojiId": "🛠"
+    },
+
+    {
+      "RoleId": "Salvage",
+      "EmojiId": "🏚"
+    },
+
+    {
+      "RoleId": "Deep Space Exploration",
+      "EmojiId": "🌑"
+    },
+
+    {
+      "RoleId": "Search & Rescue",
+      "EmojiId": "⛑"
+    },
+
+    {
+      "RoleId": "Drug Manufacturing",
+      "EmojiId": "💉"
+    },
+
+    {
+      "RoleId": "Engineering",
+      "EmojiId": "👷"
+    },
+
+    {
+      "RoleId": "Health & Healing",
+      "EmojiId": "🏥"
+    },
+
+    {
+      "RoleId": "Overclocking",
+      "EmojiId": "🚀"
+    },
+
+    {
+      "RoleId": "Research",
+      "EmojiId": "🔬"
+    },
+
+    {
+      "RoleId": "Reporting",
+      "EmojiId": "📰"
+    },
+
+    {
+      "RoleId": "Inforunning",
+      "EmojiId": "🛰"
+    },
+
+    {
+      "RoleId": "Luxury Touring",
+      "EmojiId": "🛳"
+    },
+
+    {
+      "RoleId": "Transport",
+      "EmojiId": "✈"
+    },
+
+    {
+      "RoleId": "Smuggling",
+      "EmojiId": "🛅"
+    },
+
+    {
+      "RoleId": "Otaku",
+      "EmojiId": "sofia"
+    },
+
+    {
+      "RoleId": "Codeslinger",
+      "EmojiId": "💻"
+    },
+
+    {
+      "RoleId": "Concierge",
+      "EmojiId": "🎩"
+    },
+
+    {
+      "RoleId": "Languages",
+      "EmojiId": "🌐"
+    },
+
+    {
+      "RoleId": "Dungeon Master",
+      "EmojiId": "🐉"
+    },
+
+    {
+      "RoleId": "Reader",
+      "EmojiId": "📚"
+    },
+
+    {
+      "RoleId": "Roleplayer",
+      "EmojiId": "🎭"
+    },
+
+    {
+      "RoleId": "Discord Hopper",
+      "EmojiId": "all_the_things"
+    },
+
+    {
+      "RoleId": "Streamer",
+      "EmojiId": "🎙"
+    },
+
+    {
+      "RoleId": "Video Editor",
+      "EmojiId": "🎥"
+    }
+  ]
+}

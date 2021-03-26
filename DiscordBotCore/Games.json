@@ -69,6 +69,16 @@
       "RoleId": "World of Warships",
       "EmojiId": "🛳"
     },
+    
+    {
+      "RoleId": "Escape from Tarkov",
+      "EmojiId": "pepe_gun"
+    },
+
+    {
+      "RoleId": "Gods Unchained",
+      "EmojiId": "🌩️"
+    },
 
     {
       "RoleId": "Atlas",
